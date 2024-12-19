@@ -4,10 +4,10 @@ const { generateRandomNumber } = require("./utils/randomUiGenerator")
 const carsList = [
 	{
 		id: 1,
-		carName: "Toyota Corolla",
-		carYear: 2020,
+		carName: " Toyota Sprinter Trueno GT APEX (AE86)",
+		carYear: 1983,
 		carImg:
-			"https://cdn.motor1.com/images/mgl/wN33Q/s3/2020-toyota-corolla-sedan.jpg",
+			"https://modelkars.com/wp-content/uploads/78786-toyota-sprinter-trueno-ae86-initial-d-autoart-15.webp",
 		userId: 1,
 	},
 	{
